@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: navy;
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.magic {
+  color: #ccc;
+  font-size: 2em;
+}
+
+h1 {
+  color: #ccc;
+}
+
+input {
+  padding: 0.5em;
+  width: 50%;
+}
